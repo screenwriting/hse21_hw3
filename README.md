@@ -27,4 +27,19 @@ SRR3414637 | контроль | 20385570 |	19847291 (97%)	| 17844858 (88%) |	157
 
 # 2 Часть
 
-Ссылка на colab:
+Ссылка на colab: https://colab.research.google.com/drive/1z0aaEn6aeUZQFrDfpK_5lY66KAfJzSmU?usp=sharing
+
+# MA-plot
+
+![image](https://user-images.githubusercontent.com/86132283/144506626-947dcaeb-decb-4627-ac57-71a2cf38c9ca.png)
+
+# Тепловые карты
+
+![image](https://user-images.githubusercontent.com/86132283/144507513-027574dd-c6e8-4b6a-b1f6-765c6f2f2aa5.png)
+![image](https://user-images.githubusercontent.com/86132283/144506786-89448356-d3ea-470b-8caf-087e25fbb22a.png)
+
+# Наиболее значимо поменяли экспрессию
+
+![image](https://user-images.githubusercontent.com/86132283/144506937-203b0db7-1fc0-460a-98bf-151a3d03ab46.png)
+![image](https://user-images.githubusercontent.com/86132283/144506969-126bb62e-9d7a-44d4-b682-87569517c9d6.png)
+![image](https://user-images.githubusercontent.com/86132283/144507003-cce4db4f-2009-481f-aa71-9f5a7b4ebb3a.png)
